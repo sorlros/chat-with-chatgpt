@@ -46,6 +46,7 @@ const Login = ({ setUser, setSecret }) => {
 						value={password}
 						onChange={(e) => setPassword(e.target.value)}
 					/>
+					<p>id: sorlros, password: 1234</p>
 				</div>
 
 				<div className="login-actions">
